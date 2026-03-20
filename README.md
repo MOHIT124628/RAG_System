@@ -19,17 +19,3 @@ Instead of relying only on pre-trained knowledge, the system retrieves relevant 
 3.Numpy
 4.SentenceTransformers
 5.LLM(Gemini)
-
-## RAG pipeline
-
- User Query
-     ↓
- Embedding
-     ↓
-Vector Search (FAISS)
-     ↓
-Relevant Context
-     ↓
-    LLM
-     ↓
-Final Answer
