@@ -1,0 +1,11 @@
+User Question
+↓
+Converted to embedding
+↓
+FAISS search (retrieval)
+↓
+Relevant documents
+↓
+Sent to LLM
+↓
+LLM generates answer
